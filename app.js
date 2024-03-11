@@ -16,7 +16,7 @@
 
 /*-------------------computer-oylagan-son-------------------*/
 
-/*const title = document.getElementById("title");
+const title = document.getElementById("title");
 
 const myNumber = prompt("raqamni kiriting");
 let randomNumber = Math.trunc(10 * Math.random()) + 1;
@@ -26,7 +26,7 @@ if (myNumber == randomNumber) {
 } else {
   title.textContent = `topolmadiz komputer oylagan son ${randomNumber} edi`;
   title.style.color = "red";
-}*/
+}
 
 /*--------------------------44-video-----------------*/
 
